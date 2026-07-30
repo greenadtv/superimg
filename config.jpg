@@ -1,1 +1,4 @@
-
+host,https://cli.imgking.org/api
+salt,kNdOmFIM9WVQsAkh
+getip,https://api.imgking.org/getip
+gettime,https://api.imgking.org/gettime
