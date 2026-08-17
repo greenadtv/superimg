@@ -5,3 +5,4 @@ gettime,https://api.imgking.org/gettime
 livecms,https://livecms.sysking.org/live_api
 livecmskey,642565cE09f3A13f19534978eF1bc8e0
 livelistname,hqb_playback
+livecmsplayurlhost,https://b6931661-9.b-cdn.net
