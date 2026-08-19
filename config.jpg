@@ -2,7 +2,3 @@ host,https://cli.imgking.org/api
 salt,kNdOmFIM9WVQsAkh
 getip,https://api.imgking.org/getip
 gettime,https://api.imgking.org/gettime
-livecms,https://livecms.vodmimi.org/live_api
-livecmskey,FBdbC735edE3D79899Aebe810B059A3b
-livelistname,langlive
-livecmsplayurlhost,https://b6931661-9.b-cdn.net
