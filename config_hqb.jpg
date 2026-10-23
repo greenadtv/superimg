@@ -2,3 +2,5 @@ host,https://cli.imgking.org/api
 salt,kNdOmFIM9WVQsAkh
 getip,https://api.imgking.org/getip
 gettime,https://api.imgking.org/gettime
+oauth_tel_code,https://t.me/oauth_iptv_bot?start=
+oauth_tel_getid,https://oauth.diskkey.org/oauth_iptv_bot/webhook/get_user_tel_id
