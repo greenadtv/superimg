@@ -4,3 +4,5 @@ getip,https://api.imgking.org/getip
 gettime,https://api.imgking.org/gettime
 oauth_tel_code,https://t.me/oauth_iptv_bot?start=get_id_
 oauth_tel_getid,https://oauth.diskkey.org/oauth_iptv_bot/webhook/get_user_tel_id
+oauth_x_login,https://oauth.diskkey.org/oauth_iptv_bot/webhook/x_login
+oauth_x_status ,https://oauth.diskkey.org/oauth_iptv_bot/webhook/x_status
